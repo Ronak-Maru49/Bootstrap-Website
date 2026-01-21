@@ -43,7 +43,7 @@
 }
 
 #banner {
-    background: url('../Img/banner.jpg') no-repeat 0 0;
+    background: url('banner.jpg') no-repeat 0 0;
     background-size: cover;
 }
 
@@ -76,7 +76,7 @@
 
 #testimonials {
     color: #fff;
-    background: url('../Img/testimonials.jpg') no-repeat 0 0;
+    background: url('testimonials.jpg') no-repeat 0 0;
     background-size: cover;
     padding: 50px 0;
     position: relative;
@@ -262,4 +262,5 @@ a.readmore:after {
         text-align: center;
         margin: 10px auto;
     }
+
 }
